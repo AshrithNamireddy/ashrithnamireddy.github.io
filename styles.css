@@ -1,6 +1,8 @@
 .ids{
     align-items: center;
+    border: 5px;
 }
 .imag {
     border-radius: 50%;
+    border: 1px;
   }
