@@ -7,6 +7,6 @@
 }
 .imag {
     border-radius: 50%;
-    border: 1px;
+    box-shadow: 0px 0px 5px #707070;
     height: 40%;
   }
