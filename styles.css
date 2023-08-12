@@ -1,5 +1,5 @@
 .ids{
-    align-items: center;
+    position: absolute;
     border-color: black;
     border: 10px;
     border-style: solid;
