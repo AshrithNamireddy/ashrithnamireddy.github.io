@@ -1,3 +1,6 @@
-body{
+.ids{
     align-items: center;
 }
+.imag {
+    border-radius: 50%;
+  }
